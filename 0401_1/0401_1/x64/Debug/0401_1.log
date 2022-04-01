@@ -1,0 +1,3 @@
+﻿  0401_1.c
+C:\Users\mumu\Desktop\visual stdio codes\0401_1\0401_1\0401_1.c(5,1): warning C4047: “初始化”:“char”与“char [5]”的间接级别不同
+  0401_1.vcxproj -> C:\Users\mumu\Desktop\visual stdio codes\0401_1\x64\Debug\0401_1.exe
