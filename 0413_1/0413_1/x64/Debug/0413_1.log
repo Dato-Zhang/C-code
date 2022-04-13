@@ -1,0 +1,11 @@
+﻿  0413_1.c
+C:\Users\mumu\Desktop\visual stdio codes\0413_1\0413_1\0413_1.c(9,13): error C2079: “s”使用未定义的 struct“Stu”
+C:\Users\mumu\Desktop\visual stdio codes\0413_1\0413_1\0413_1.c(9,67): error C2078: 初始值设定项太多
+C:\Users\mumu\Desktop\visual stdio codes\0413_1\0413_1\0413_1.c(10,33): error C2109: 下标要求数组或指针类型
+C:\Users\mumu\Desktop\visual stdio codes\0413_1\0413_1\0413_1.c(11,8): warning C4022: “qsort”: 指针与实参 1 不匹配
+C:\Users\mumu\Desktop\visual stdio codes\0413_1\0413_1\0413_1.c(11,25): error C2109: 下标要求数组或指针类型
+C:\Users\mumu\Desktop\visual stdio codes\0413_1\0413_1\0413_1.c(11,44): error C2065: “cmp_stu_by_name”: 未声明的标识符
+C:\Users\mumu\Desktop\visual stdio codes\0413_1\0413_1\0413_1.c(11,7): error C2198: “qsort”: 用于调用的参数太少
+C:\Users\mumu\Desktop\visual stdio codes\0413_1\0413_1\0413_1.c(9,13): error C2078: 初始值设定项太多
+C:\Users\mumu\Desktop\visual stdio codes\0413_1\0413_1\0413_1.c(9,1): warning C4047: “初始化”:“int”与“char [9]”的间接级别不同
+C:\Users\mumu\Desktop\visual stdio codes\0413_1\0413_1\0413_1.c(15,7): warning C4013: “test1”未定义；假设外部返回 int
