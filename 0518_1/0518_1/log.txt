@@ -1,0 +1,50 @@
+file:C:\Users\mumu\Desktop\visual stdio codes\0518_1\0518_1\0518_1.c
+line:24
+date:May 18 2022
+time:20:32:06
+i = 0
+file:C:\Users\mumu\Desktop\visual stdio codes\0518_1\0518_1\0518_1.c
+line:24
+date:May 18 2022
+time:20:32:06
+i = 1
+file:C:\Users\mumu\Desktop\visual stdio codes\0518_1\0518_1\0518_1.c
+line:24
+date:May 18 2022
+time:20:32:06
+i = 2
+file:C:\Users\mumu\Desktop\visual stdio codes\0518_1\0518_1\0518_1.c
+line:24
+date:May 18 2022
+time:20:32:06
+i = 3
+file:C:\Users\mumu\Desktop\visual stdio codes\0518_1\0518_1\0518_1.c
+line:24
+date:May 18 2022
+time:20:32:06
+i = 4
+file:C:\Users\mumu\Desktop\visual stdio codes\0518_1\0518_1\0518_1.c
+line:24
+date:May 18 2022
+time:20:32:06
+i = 5
+file:C:\Users\mumu\Desktop\visual stdio codes\0518_1\0518_1\0518_1.c
+line:24
+date:May 18 2022
+time:20:32:06
+i = 6
+file:C:\Users\mumu\Desktop\visual stdio codes\0518_1\0518_1\0518_1.c
+line:24
+date:May 18 2022
+time:20:32:06
+i = 7
+file:C:\Users\mumu\Desktop\visual stdio codes\0518_1\0518_1\0518_1.c
+line:24
+date:May 18 2022
+time:20:32:06
+i = 8
+file:C:\Users\mumu\Desktop\visual stdio codes\0518_1\0518_1\0518_1.c
+line:24
+date:May 18 2022
+time:20:32:06
+i = 9
